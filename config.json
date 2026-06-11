@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlalchemy-database-integration",
+      "title": "Database Integration with SQLAlchemy",
+      "description": "Learn to integrate SQLAlchemy ORM with FastAPI to build persistent, database-backed REST APIs with relationships and complex queries.",
+      "path": "assignments/sqlalchemy-database-integration",
+      "dueDate": "2026-06-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
